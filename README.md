@@ -1,2 +1,41 @@
 # simplefoodapp
-its simple food app  in swift that  have  a static  collection  of food like burger, pasta,etc..
+a simple food app that have a static collections of food like pasta, burger,etc and  some detail of each food
+using  MVC pattern
+
+
+the first screen of the app that show a table view contain the lisst of food
+
+
+
+
+![Screen Shot 2020-01-13 at 9 42 10 PM](https://user-images.githubusercontent.com/47069606/72295776-e4b44080-3660-11ea-9b75-bdba1e55cd5f.png)
+
+
+
+
+
+
+the second creen of the app show a colection view with the same kind of food
+
+
+
+![Screen Shot 2020-01-13 at 11 36 46 PM](https://user-images.githubusercontent.com/47069606/72296030-673d0000-3661-11ea-8409-973077f33a56.png)
+
+
+
+
+
+
+
+
+the thir screen of the app show detail of that particular food that choose from the second screen
+
+
+
+
+![Screen Shot 2020-01-13 at 11 42 27 PM](https://user-images.githubusercontent.com/47069606/72296142-9ce1e900-3661-11ea-8c6e-d48b25ceaa07.png)
+
+
+
+
+
