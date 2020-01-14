@@ -1,9 +1,9 @@
 # simplefoodapp
-a simple food app that have a static collections of food like pasta, burger,etc and  some detail of each food
+a simple food app that have collections of food like pasta, burger,etc and  recipe  detail of each food
 using  MVC pattern
 
 
-the first screen of the app that show a table view contain the lisst of food
+the first screen of the app that show a table view contain the list of food
 
 
 
@@ -28,7 +28,7 @@ the second creen of the app show a colection view with the same kind of food
 
 
 
-the thir screen of the app show detail of that particular food that choose from the second screen
+the third screen of the app show Recipe detail to make that particular food that choose from the second screen
 
 
 
